@@ -1,0 +1,26 @@
+{
+ "nazwa_samochodu": "BMW",
+ "marka_samochodu": "X7",
+ "fotele": [
+{
+      "material": "skóra",
+      "kolor": "czarny",
+      "pojemnosc_silnika": "3.0L"
+    },
+    {
+      "material": "tkanina",
+      "kolor": "szary",
+      "pojemnosc_silnika": "2.0L"
+    },
+    {
+      "material": "skóra",
+      "kolor": "czerwony",
+      "pojemnosc_silnika": "2.0L"
+    },
+    {
+      "material": "skóra",
+      "kolor": "beżowy",
+      "pojemnosc_silnika": "3.0L"
+    }
+  ]
+}
